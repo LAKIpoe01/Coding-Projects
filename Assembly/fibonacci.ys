@@ -1,5 +1,5 @@
 # TKJ-harjoitustyö 2023 Fibonacci
-# Hla Poe, opiskelijanro: Y68710503, laki.poe@gmail.com
+# Hla Poe, laki.poe@gmail.com
 # Pohdinta:
 # - Ajonaikaisten käskyjen määrä: 82->riippuen alkion koosta
 # - Optimoinnin tein tavalla: ettei tarvi loopata toista kertaa kertolaskua, kun tarkastelee miinustapausta
